@@ -110,7 +110,7 @@ export const AgentForm = ({
               <FormControl>
                 <Textarea
                   {...field}
-                  placeholder="You are a helpful assistant that can answer questions and help with assignments."
+                  placeholder="You are a helpful math assistant that can answer questions and help with assignments."
                 />
               </FormControl>
               <FormMessage />
